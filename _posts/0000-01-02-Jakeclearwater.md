@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+thats the problem, your a shot taker but not a shot maker
 Use the left arrow to go back!
